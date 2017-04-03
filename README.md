@@ -1,4 +1,4 @@
-# Software Development Principles and Their Rationale
+# Software Development Principles and Their Rationales
 
 This repository is a reference for myself to remember common software development principles, and to understand why we would belive those principles.
 
